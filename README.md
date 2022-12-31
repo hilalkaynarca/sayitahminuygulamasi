@@ -1,4 +1,4 @@
-# sayitahminuygulamasi
+# Sayi Tahmin Oyunu
 
 Flutter ile yazdığım sayı tahmin uygulaması. Bu uygulamada 100e kadar rasgele oluşturulan sayıyı, kullanıcı 5 hakkını ve verilen ipuçlarını kullanarak bulmaya çalışmaktadır.
 
