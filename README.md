@@ -1,6 +1,6 @@
 # Sayi Tahmin Oyunu
 
-Flutter ile yazdığım sayı tahmin uygulaması. Bu uygulamada 100e kadar rasgele oluşturulan sayıyı, kullanıcı 5 hakkını ve verilen ipuçlarını kullanarak bulmaya çalışmaktadır.
+Flutter / Dart ile yazdığım sayı tahmin uygulaması. Bu uygulamada 100e kadar rasgele oluşturulan sayıyı, kullanıcı 5 hakkını ve verilen ipuçlarını kullanarak bulmaya çalışmaktadır.
 
 ![1](https://user-images.githubusercontent.com/42433604/210151452-891772bf-11fc-4ca8-8433-6471167eb675.PNG)
 ![2](https://user-images.githubusercontent.com/42433604/210151455-8dc68f20-80ce-4d4e-90dc-f579184f8e67.PNG)
